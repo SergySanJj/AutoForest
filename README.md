@@ -6,7 +6,9 @@ To use this bot better choose Linux based OS.
 ## **Install**##
 
 0) Python 3
-		 sudo apt install python3 
+```shell
+sudo apt install python3 
+```  
 
 1) Telegram-cli (from @vysheng) by official guide:
 https://github.com/vysheng/tg/
