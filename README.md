@@ -62,7 +62,8 @@ Open ports for telegram-cli by going to /loc/to/tg/bin/ then
 ```shell
  ./telegram-cli --json -P 4458
 ```
-Go to /loc/to/AutoForest/ then:
+Leave it running
+In other terminal go to /loc/to/AutoForest/ then:
 ```shell
  python3 autoforest.py
 ```
