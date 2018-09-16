@@ -55,7 +55,7 @@ to update:
 for UBUNTU:
 ```shell
  git clone https://github.com/SergySanJj/AutoForest.git && cd AutoForest
-
+```
 Open ports for telegram-cli by going to /loc/to/tg/bin/ then
 ```shell
  ./telegram-cli --json -P 4458
