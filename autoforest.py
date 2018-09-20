@@ -38,12 +38,12 @@ hero_state = True
 # ./telegram-cli --json -P 4458
 # after what port 4458 will be opened
 
-
 activities_ru = {
     'forest': u"🌲Лес",
     'def': u"🛡Защита",
     'fight': u"▶️Быстрый бой",
     'hero': u"🏅Герой"}
+
 
 activities_eu = {
     'forest': "🌲Forest",

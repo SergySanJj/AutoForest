@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="439834e1-2c04-45fd-b792-bc6f03cdcb3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/iris.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tst.py" beforeDir="false" afterPath="$PROJECT_DIR$/tst.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoforest.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoforest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teletest.py" beforeDir="false" afterPath="$PROJECT_DIR$/teletest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,29 +44,34 @@
     <session id="-568184250">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="13" />
+          <entry key="session" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="993" />
+          <entry key="py" value="2407" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="993" />
+          <entry key="Python" value="2407" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -74,37 +79,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tst.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="156" selection-start-line="156" selection-end-line="156" />
-              <folding>
-                <element signature="e#2#52#0" expanded="true" />
-                <marker date="1537308948311" expanded="true" signature="768:881" ph="..." />
-                <marker date="1537308948311" expanded="true" signature="1704:1709" ph="..." />
-                <marker date="1537308948311" expanded="true" signature="1704:1958" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pytg/receiver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/iris.py">
+        <entry file="file://$PROJECT_DIR$/teletest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="883" column="22" selection-start-line="883" selection-start-column="22" selection-end-line="883" selection-end-column="22" />
+            <state relative-caret-position="47">
+              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
               <folding>
-                <element signature="e#35#65#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,6 +96,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>4458</find>
+      <find>Лес</find>
     </findStrings>
     <replaceStrings>
       <replace>1337</replace>
@@ -126,9 +108,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/autoforest.py" />
         <option value="$PROJECT_DIR$/tst.py" />
         <option value="$PROJECT_DIR$/iris.py" />
+        <option value="$PROJECT_DIR$/variables.py" />
+        <option value="$PROJECT_DIR$/autoforest.py" />
+        <option value="$PROJECT_DIR$/teletest.py" />
       </list>
     </option>
   </component>
@@ -159,7 +143,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tst">
+  <component name="RunManager" selected="Python.teletest">
     <configuration name="autoforest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoForest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,6 +171,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autoforest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teletest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoForest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teletest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,9 +224,11 @@
     <list>
       <item itemvalue="Python.autoforest" />
       <item itemvalue="Python.tst" />
+      <item itemvalue="Python.teletest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teletest" />
         <item itemvalue="Python.tst" />
         <item itemvalue="Python.autoforest" />
       </list>
@@ -252,12 +259,12 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13724405" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1438849" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89485335" weight="0.28756756" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89263976" weight="0.4518919" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7902601" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -265,12 +272,12 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4986165" weight="0.32972974" />
       <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.4986165" weight="0.32972974" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.105146654" side_tool="true" visible="true" weight="0.28756756" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.107360266" side_tool="true" visible="true" weight="0.4518919" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24958494" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="R Graphics" order="3" weight="0.32982844" />
+      <window_info anchor="right" id="R Packages" order="4" weight="0.32982844" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -288,20 +295,43 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pytg/receiver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/variables.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iris.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4155">
+          <caret line="520" column="34" selection-start-line="520" selection-start-column="34" selection-end-line="520" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoforest.session">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/autoforest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-742">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#74#99#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="572">
+          <caret line="139" column="3" selection-start-line="139" selection-start-column="3" selection-end-line="139" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tst.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        <state relative-caret-position="165">
+          <caret line="86" column="25" selection-start-line="86" selection-start-column="25" selection-end-line="86" selection-end-column="25" />
           <folding>
             <element signature="e#2#52#0" expanded="true" />
             <marker date="1537308948311" expanded="true" signature="768:881" ph="..." />
@@ -311,19 +341,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python3.6/site-packages/pytg/receiver.py">
+    <entry file="file://$PROJECT_DIR$/teletest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iris.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="883" column="22" selection-start-line="883" selection-start-column="22" selection-end-line="883" selection-end-column="22" />
+        <state relative-caret-position="47">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
           <folding>
-            <element signature="e#35#65#0" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
