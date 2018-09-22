@@ -37,13 +37,20 @@ hero_state = True
 # use next command in tg/bin/:
 # ./telegram-cli --json -P 4458
 # after what port 4458 will be opened
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 
 activities_ru = {
     'forest': u"🌲Лес",
     'def': u"🛡Защита",
     'fight': u"▶️Быстрый бой",
     'hero': u"🏅Герой"}
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 
 activities_eu = {
     'forest': "🌲Forest",
@@ -60,8 +67,12 @@ message_types_ru = {
 battle_table_ru = [
     datetime.datetime.strptime("01:00:00", "%H:%M:%S"),
     datetime.datetime.strptime("09:00:00", "%H:%M:%S"),
+<<<<<<< HEAD
     datetime.datetime.strptime("17:00:00", "%H:%M:%S"),
     datetime.datetime.strptime("23:58:00", "%H:%M:%S")]
+=======
+    datetime.datetime.strptime("17:00:00", "%H:%M:%S"),]
+>>>>>>> master
 
 battle_table_eu = [
     datetime.datetime.strptime("02:00:00", "%H:%M:%S"),
