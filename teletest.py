@@ -140,7 +140,6 @@ async def update_handler(update):
 
 ########### RUN ############
 
-main()
 
 
 
